@@ -1,0 +1,11 @@
+{
+  "fqdn": "toto.rtg.hbgt.infra.net",
+  "checks": [
+    {
+      "name" : "files_blocked",
+      "status" : "OK",
+      "timestamp" : "1518098983",
+      "message" : "All OK !"
+    }
+  ]
+}
